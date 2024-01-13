@@ -1,3 +1,5 @@
+First of all, click this link https://github.com/avishorp/TM1637 and download the library.
+
 **Requirements**
 - Arduino Uno R3
 - Universal Coinslot
