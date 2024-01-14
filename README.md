@@ -1,4 +1,8 @@
-First of all, click this link https://github.com/avishorp/TM1637 and download the library.
+**Steps**
+1. First of all, click this link https://github.com/avishorp/TM1637 and download the library.
+2. Download this repo or copy the code and paste it into your IDE.
+3. Then upload it.
+
 
 **Requirements**
 - Arduino Uno R3
